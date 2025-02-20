@@ -1,4 +1,4 @@
-# Metodos-do-WinForms-com-C-
+# Metodos-do-WinForms2025-com-C#
 Atividades do ProjetoForms2025 usando Metodos com C#.
 
 using System;
